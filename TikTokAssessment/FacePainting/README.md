@@ -43,10 +43,11 @@ In order to develop this effect, I created the below list of tasks to be perform
 # Schedule
 I started the design research and ideation process as soon as the task was given. Since I had to work and also complete course assignments, I decided to complete this assessment by Saturday the 15th.
 
-February 12th and 13th 		- Research, precedent analysis and ideation
-February 13th. 14th and 15th 	- prototype and development
-February 16th 			- User test and incorporation of feedback
-Development and User test
+<br>February 12th and 13th 		- Research, precedent analysis and ideation
+<br>February 13th. 14th and 15th 	- prototype and development
+<br>February 16th 			- User test and incorporation of feedback
+
+### Development and User test
 **Tools: Unity, Photoshop, Illustrator
 SDKs : Google ARCore
 Platform: Android**
